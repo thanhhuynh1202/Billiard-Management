@@ -34,3 +34,19 @@ The system provides:
 ---
 
 ## 📂 Project Structure
+Billiard-Management
+├── FE-Billiard-Management
+└── BE-Billiard-Management
+
+---
+
+## 🔐 Authentication
+
+- JWT-based authentication
+- Role-based authorization (Admin / Staff)
+
+---
+
+## 👨‍💻 Author
+
+Thanh Huynh
