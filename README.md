@@ -34,9 +34,9 @@ The system provides:
 ---
 
 ## 📂 Project Structure
-Billiard-Management
-├── FE-Billiard-Management
-└── BE-Billiard-Management
+Billiard-Management/
+│── FE-Billiard-Management/ 
+│── BE-Billiard-Management/ 
 
 ---
 
